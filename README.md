@@ -1,5 +1,7 @@
 # V-Pet
 
+Desenvolvido por: Igor Mariano Pirola, Maria Eduarda de Oliveira Furini e Maria Luiza Nery Pinto
+
 <img src="https://github.com/user-attachments/assets/227e839d-dc40-4085-9c58-24aa6e43c9d9" alt="pet" width="200"/>
 
 ## 🦜 Sobre o Projeto
