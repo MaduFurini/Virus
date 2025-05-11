@@ -63,6 +63,7 @@ Para execução desse projeto, é necessário instalar os seguintes pacotes Pyth
 ```bash
 pip install pillow
 pip install psutil
+pip install watchdog
 ```
 
 ### 2️⃣ Execução do programa
